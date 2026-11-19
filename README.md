@@ -38,7 +38,7 @@ It sorts your photos, videos, reels, and stories into clean top-level folders, g
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/instagram-media-organizer.git
+git clone https://github.com/adityaagrawal04/instagram-media-organizer.git
 cd instagram-media-organizer
 ```
 
