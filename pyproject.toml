@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "instagram-media-organizer"
+version = "1.0.0"
+description = "Organize Instagram data exports into Reels, Posts, and Stories with deduplication."
+readme = "README.md"
+requires-python = ">=3.8"
+keywords = ["instagram", "media", "organizer", "photos", "reels", "stories", "deduplication"]
+dependencies = []
+
+[project.optional-dependencies]
+pillow = ["Pillow>=9.0.0"]
+
+[project.scripts]
+instagram-organizer = "organize_media:main"

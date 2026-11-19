@@ -1,0 +1,3 @@
+# Optional: Pillow provides image dimension parsing across all formats.
+# If omitted, the tool automatically falls back to pure-Python binary header parsing.
+Pillow>=9.0.0
