@@ -1,0 +1,21 @@
+name: Feature request
+description: Suggest an idea or enhancement for GramSort
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: Share your ideas for new capabilities or improvements!
+  - type: textarea
+    id: feature-description
+    attributes:
+      label: Proposed Feature
+      description: Describe what you would like to see added.
+    validations:
+      required: true
+  - type: textarea
+    id: use-case
+    attributes:
+      label: Motivation / Use Case
+      description: Why would this be useful to users archiving their data?
+    validations:
+      required: true
