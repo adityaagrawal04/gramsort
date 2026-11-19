@@ -4,10 +4,10 @@
 ### The Intelligent Instagram Data Export Organizer & Media Deduplicator
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/adityaagrawal04/instagram-media-organizer)
-[![Dependencies](https://img.shields.io/badge/dependencies-Zero%20(Pure%20Python)-brightgreen.svg)](https://github.com/adityaagrawal04/instagram-media-organizer)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)](https://github.com/adityaagrawal04/gramsort)
+[![Dependencies](https://img.shields.io/badge/dependencies-Zero%20(Pure%20Python)-brightgreen.svg)](https://github.com/adityaagrawal04/gramsort)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/adityaagrawal04/instagram-media-organizer/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](https://github.com/adityaagrawal04/gramsort/pulls)
 
 *Transform messy, cryptic Instagram data exports into beautifully organized, captioned, and deduplicated libraries.*
 
@@ -93,8 +93,8 @@ Organized_Media/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/adityaagrawal04/instagram-media-organizer.git
-cd instagram-media-organizer
+git clone https://github.com/adityaagrawal04/gramsort.git
+cd gramsort
 ```
 
 *(Optional)* Install Pillow if you want extended image codec support:
